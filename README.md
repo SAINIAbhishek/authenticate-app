@@ -4,9 +4,6 @@ An application which demonstrates the frontend and backend part working together
 
 This app uses passport and passport-jwt and uses a JWT (Json Web Token) strategy.
 
-# View Application
-
-https://murmuring-river-57875.herokuapp.com 
 
 # Usage
 
