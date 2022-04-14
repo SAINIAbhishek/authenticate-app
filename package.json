@@ -1,0 +1,7 @@
+{
+  "name": "authenticate-app",
+  "version": "1.0.0",
+  "dependencies": {
+    "passport-jwt": "^4.0.0"
+  }
+}
